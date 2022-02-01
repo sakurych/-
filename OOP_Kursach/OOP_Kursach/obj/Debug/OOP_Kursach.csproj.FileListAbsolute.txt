@@ -1,0 +1,14 @@
+C:\Users\Sakurych AYE\source\repos\OOP_Kursach\OOP_Kursach\bin\Debug\DataBase.mdf
+C:\Users\Sakurych AYE\source\repos\OOP_Kursach\OOP_Kursach\bin\Debug\DataBase_log.ldf
+C:\Users\Sakurych AYE\source\repos\OOP_Kursach\OOP_Kursach\bin\Debug\OOP_Kursach.exe.config
+C:\Users\Sakurych AYE\source\repos\OOP_Kursach\OOP_Kursach\bin\Debug\OOP_Kursach.exe
+C:\Users\Sakurych AYE\source\repos\OOP_Kursach\OOP_Kursach\bin\Debug\OOP_Kursach.pdb
+C:\Users\Sakurych AYE\source\repos\OOP_Kursach\OOP_Kursach\obj\Debug\OOP_Kursach.csproj.AssemblyReference.cache
+C:\Users\Sakurych AYE\source\repos\OOP_Kursach\OOP_Kursach\obj\Debug\OOP_Kursach.Form1.resources
+C:\Users\Sakurych AYE\source\repos\OOP_Kursach\OOP_Kursach\obj\Debug\OOP_Kursach.Properties.Resources.resources
+C:\Users\Sakurych AYE\source\repos\OOP_Kursach\OOP_Kursach\obj\Debug\OOP_Kursach.csproj.GenerateResource.cache
+C:\Users\Sakurych AYE\source\repos\OOP_Kursach\OOP_Kursach\obj\Debug\OOP_Kursach.csproj.CoreCompileInputs.cache
+C:\Users\Sakurych AYE\source\repos\OOP_Kursach\OOP_Kursach\obj\Debug\OOP_Kursach.exe
+C:\Users\Sakurych AYE\source\repos\OOP_Kursach\OOP_Kursach\obj\Debug\OOP_Kursach.pdb
+C:\Users\Sakurych AYE\source\repos\OOP_Kursach\OOP_Kursach\obj\Debug\OOP_Kursach.AddDish.resources
+C:\Users\Sakurych AYE\source\repos\OOP_Kursach\OOP_Kursach\obj\Debug\OOP_Kursach.EditDish.resources
